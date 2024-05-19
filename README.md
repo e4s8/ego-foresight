@@ -1,5 +1,5 @@
 # movr
-Motion-based Agent Disentanglement
+Motion-based Agent Prediction for RL
 
 # Agent Prediction
 
