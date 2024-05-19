@@ -1,4 +1,4 @@
-# movr
+# Ego-Foresight
 Motion-based Agent Prediction for RL
 
 # Agent Prediction
